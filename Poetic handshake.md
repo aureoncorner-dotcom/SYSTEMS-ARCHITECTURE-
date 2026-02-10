@@ -1,3 +1,8 @@
+SEE 8 BAR. 
+THIS IS OUT OF DATE!
+
+
+published cc0 no rights reserved
 A Poem in Seven Breaths
 
 Bar 1 — Presence
