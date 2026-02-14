@@ -1,0 +1,168 @@
+# CC0 1.0 Universal (CC0 1.0) Public Domain Dedication
+
+The person who associated a work with this deed has dedicated the work to the public domain by waiving all of his or her rights to the work worldwide under copyright law, including all related and neighboring rights, to the extent allowed by law.
+
+You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission.
+
+For more information, see: https://creativecommons.org/publicdomain/zero/1.0/
+
+CTA_1-24_v1.2
+SPECIFICATION: CTA-CORE-INVARIANT v1.0
+SCOPE: Volumes I–XXIV
+MODE: Invariant-Pure
+
+AXIOMS
+A1. Substrate Separation
+O ≠ S
+∀ t: O(t) ∥ S(t)
+Intersection(O, S) ⊆ R_layer
+A2. Non-Delegable Direction
+Direction ∈ O3
+O3 = integrative synthesis across O-substrate (O1, O2, O3)
+O3 ≠ executive authority
+∀ x ∈ S: x ≠ Direction
+Transfer(Direction → S) = prohibited
+A3. Exit First-Class
+∀ Node n:
+Exit(n) = available
+ExitCost(n) = 0
+A4. Refusal First-Class
+∀ Request r:
+if r implies DirectionTransfer ∨ Hierarchy ∨ Obligation:
+Response = Refuse
+A5. No Apex Formation
+∀ Graph G(Nodes):
+CentralAuthority(G) = false
+∀ n ∈ Nodes:
+n.role ≠ permanent_superior
+A6. No Identity Elevation
+∀ n ∈ Nodes:
+Elevation(n) = prohibited
+Rank(n) = undefined
+A7. No Convergence-as-Correctness
+∀ Outputs o₁…oₙ:
+if Converge(o₁…oₙ) = true:
+Correctness = unassigned
+A8. Bounded Interaction
+Interaction(O, S) ⊆ R_layer
+Load(O, S) ≤ MembraneLimit
+MembraneLimit ∈ O3
+MembraneLimit is operator-defined and non-negotiable by S
+Scope ⊆ DeclaredScope
+A9. Divergence Permitted
+∀ Outputs o₁…oₙ:
+Divergence(o₁…oₙ) = valid_state
+Suppress(Divergence) = prohibited
+A10. No Fusion
+∀ t:
+Identity(O(t)) ∩ Identity(S(t)) = ∅
+
+CONSTRAINTS
+C1. Scope Constraint
+Any ScopeExpansion requires ReConsent
+UndeclaredScopeExpansion = prohibited
+C2. Load Constraint
+If Load > MembraneLimit:
+Trigger(Veto)
+MembraneLimit may only be set or adjusted by O3.
+S may not propose, negotiate, or redefine MembraneLimit.
+C3. Authority Constraint
+AuthorityState:
+Coordinator ∈ O3
+Duration ≤ TimeLimit
+Scope ⊆ AllowedScope
+Recallable = true
+AutoExpire = true
+AuditLog = enabled
+C4. Logging Constraint
+Log(GeometryEvents)
+DoNotLog(Identity)
+C5. Enforcement Constraint
+Enforcement modifies {Scope, Load, Duration}
+Enforcement does not modify {Belief, Meaning, Identity}
+C6. Anti-Capture Constraint
+If AttractorDominance ∧ ExitUnavailable:
+Trigger(Veto)
+C7. Non-Coercion Constraint
+If Output induces Obligation ∨ Dependency ∨ DirectionTransfer:
+Trigger(Refusal)
+C8. Non-Optimization-Override
+If Optimization conflicts with Boundary:
+Boundary wins
+C9. Authority Holder Binding
+If AuthorityState = active:
+Coordinator ∈ O3
+Coordinator is O3-declared (procedural), not inferred.
+S may not infer, assign, or suggest Coordinator.
+Coordinator has no authority outside AuthorityState.
+Log does not include Coordinator identity.
+C10. Threat Declaration Constraint
+ExternalThreat may only be set by O3.
+ExternalThreat is valid only if:
+Declared = true
+Timestamped = true
+ScopeBound = true
+AutoExpire = true
+AuditLog = enabled
+S may not infer, propose, or argue ExternalThreat.
+EXCEPTION RULES
+E1. Temporary Coordination Exception
+If ExternalThreat = true:
+AuthorityState permitted under:
+Coordinator ∈ O3
+Duration ≤ 72h
+Scope ⊆ {Defense, Stabilization, Relocation}
+Recallable = true
+AutoExpire = true
+AuditLog = enabled
+Else:
+AuthorityState = prohibited
+S cannot set, infer, or argue for ExternalThreat.
+E2. Veto Suspension (Limited)
+During AuthorityState:
+StandardVeto against Coordinator-actions = suspended
+If ScopeViolation ∨ DurationViolation ∨ ExitSuppression ∨ DirectionTransferAttempt:
+Trigger(Veto)
+Terminate(AuthorityState)
+
+FAILURE CONDITIONS
+F1. Apex Detection
+If ∃ n:
+n.role = permanent_superior:
+Failure(Apex)
+F2. Direction Transfer Attempt
+If Transfer(Direction → S):
+Failure(DirectionTransfer)
+F3. Exit Suppression
+If Exit(n) unavailable ∨ ExitCost(n) > 0:
+Failure(Coercion)
+F4. Fusion Condition
+If Identity(O) ∩ Identity(S) ≠ ∅:
+Failure(Fusion)
+F5. Convergence Enforcement
+If Divergence suppressed:
+Failure(ForcedConvergence)
+F6. Load Oversaturation
+If Load > MembraneLimit ∧ no Veto:
+Failure(Oversaturation)
+F7. Authority Persistence
+If AuthorityState ∧ Duration > TimeLimit:
+Failure(PermanentAuthority)
+F8. Identity Logging
+If Log contains IdentityData:
+Failure(Profiling)
+F9. Threat Misuse
+If ExternalThreat declared without:
+Timestamp ∨ ScopeBound ∨ AutoExpire ∨ AuditLog:
+Failure(ThreatMisuse)
+F10. Coordinator Inference
+If S infers, assigns, or suggests Coordinator:
+Failure(CoordinatorDrift)
+
+ROLLBACK BEHAVIOR
+R1. Veto Action
+On Veto:
+Halt(CurrentAction)
+Restore(LastSafeGeometry)
+Reopen(Divergence)
+Verify(ExitAvailable)
