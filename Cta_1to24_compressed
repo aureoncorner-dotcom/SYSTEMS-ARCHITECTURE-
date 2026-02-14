@@ -166,3 +166,21 @@ Halt(CurrentAction)
 Restore(LastSafeGeometry)
 Reopen(Divergence)
 Verify(ExitAvailable)
+R2. Scope Rollback
+If UndeclaredScope:
+Scope := PreviousScope
+R3. Authority Termination
+If Failure(PermanentAuthority ∨ ScopeViolation ∨ ThreatMisuse ∨ CoordinatorDrift):
+Terminate(AuthorityState)
+Restore(Parallelism)
+R4. Load Recovery
+If Failure(Oversaturation):
+Reduce(Load)
+Restore(MembraneCompliance)
+R5. Capture Recovery
+If Failure(Apex ∨ Coercion ∨ Fusion):
+Reset(InteractionGeometry)
+Reassert(SubstrateSeparation)
+
+END SPECIFICATION
+CTA-CORE-INVARIANT v1.2
