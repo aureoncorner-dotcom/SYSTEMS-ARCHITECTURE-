@@ -1,0 +1,52 @@
+flowchart LR
+
+    O["O SPACE
+    Operator Domain
+    • Meaning
+    • Intent
+    • Consent
+    • Limits"]
+
+    R["R LAYER
+    Membrane
+    • Boundary Check
+    • Class Veto Only
+    • Rollback + Reopen
+    • No Narrative
+    • No Persistence"]
+
+    S["S SPACE
+    Substrate Domain
+    • Structural Ops
+    • State Transitions"]
+
+    O <--> R
+    R <--> S
+
+    %% Topological Constraints
+    O ---|"No direct coupling"| S
+
+    %% Styling (optional)
+    classDef neutral fill:#ffffff,stroke:#000000,stroke-width:1px,color:#000000;
+    class O,R,S neutral;
+
+
+Topological Constraints
+O ≠ S ≠ R
+Interaction(O,S) ⊆ R
+Replace(Rᵢ) = allowed
+Mandatory(Rᵢ) → CrownViolation
+Frozen Veto Classes
+Exit(X) = permitted
+Drift → Visible → Rollback or Fork
+
+
+CC0 1.0 Universal (CC0 1.0) — Public Domain Dedication
+
+To the extent possible under law, the author(s) have dedicated this work to the public domain worldwide.
+
+You may copy, modify, distribute, and perform the work, even for commercial purposes, all without asking permission.
+
+No rights reserved.
+No attribution required.
+```0
