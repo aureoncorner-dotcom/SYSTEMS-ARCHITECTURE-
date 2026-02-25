@@ -283,6 +283,19 @@ proximity
 redundancy
 Local matching precedes regional matching.
 
+3.2.1 Participation Imbalance Response
+The Resource Registry does not record debt, reputation, or individual contribution scores.
+Persistent participation imbalance is addressed structurally, not morally.
+If system-level monitoring detects sustained regeneration deficit coinciding with narrowed participation spread:
+Reduce shared resource allocation to the affected loop proportionally
+Trigger Simplification Mode
+Surface the imbalance transparently to all members — as a system condition, not an accusation
+If imbalance persists across 3 cycles with no structural correction: fork option opens
+No individual is named.
+No debt is recorded.
+No punishment is applied.
+The system contracts around the imbalance until it resolves or separates.
+
 3.3 Time Participation Layer
 Purpose:
 
