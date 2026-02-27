@@ -83,7 +83,7 @@ Any mechanism that prevents exit through penalty, dependency, or capture.
 
 Rule
 
-> If a node cannot exit, consent does not exist.
+> If a node cannot exit without penalty, consent does not exist.
 
 
 
