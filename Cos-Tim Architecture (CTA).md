@@ -353,7 +353,9 @@ Q: Who is laughing?
 A: Yes.
 
 ---
-
+## Empirical Test Result – 43/21.5-day Periodicity
+Falsified. Did not reproduce under Lomb-Scargle, FFT, or rational-ratio tests on JPL Horizons data.
+See test summary below.
 
 The Cos-Tim 43-day test was looking for a rhythmic pattern — specifically whether T₁₃ related events or signals showed a statistically significant 43-day periodicity.
 Three methods were run:
