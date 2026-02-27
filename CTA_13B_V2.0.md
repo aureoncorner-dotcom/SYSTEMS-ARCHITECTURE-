@@ -152,7 +152,7 @@ no negotiation occurs
 
 Rule
 
-> Safety interrupts optimization without delay.
+> Safety interrupts optimization without delay. Veto is immediate and non-negotiable within scope.
 
 
 
