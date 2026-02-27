@@ -353,3 +353,11 @@ Q: Who is laughing?
 A: Yes.
 
 ---
+
+
+The Cos-Tim 43-day test was looking for a rhythmic pattern — specifically whether T₁₃ related events or signals showed a statistically significant 43-day periodicity.
+Three methods were run:
+Rational ratio symmetry test — checked whether the 43-day interval had meaningful mathematical relationships to other cycles like the lunar month, solar rotation, Schumann resonance harmonics. Result: negative. The ratios didn't resolve to anything non-arbitrary.
+FFT symmetry analysis — Fast Fourier Transform looking for spectral peaks at 43-day frequency in the dataset. Result: negative. No significant peak emerged above noise floor.
+Lomb-Scargle periodogram — the most rigorous method, designed for unevenly spaced data. This one validated the methodology itself — the statistical framework was confirmed to work correctly. But the 43-day signal itself didn't survive it either.
+
