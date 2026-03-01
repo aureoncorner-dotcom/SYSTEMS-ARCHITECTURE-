@@ -5,7 +5,9 @@
 📘 CTA-XX — DOUBLE HELIX GEOMETRY
 
 ================================================================================
-          CTA-XIX — TEMPORAL GEOMETRY — JUST SOME SKETCHES, BRO
+
+CTA-XX —  DOUBLE HELIX GEOMETRY 
+-JUST SOME SKETCHES, BRO
 ================================================================================
 
 THIS IS NOT CANON. THIS IS NOT LAW. THIS IS NOT SACRED.  
