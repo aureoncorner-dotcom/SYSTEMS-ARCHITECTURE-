@@ -3,13 +3,33 @@
 
 # 📘 **CTA-XV-B — STRUCTURAL DRAG & OPTIMIZATION TRADEOFFS**
 
-### _A Descriptive Analysis of Cost Surfaces in Constraint-Optimized Reasoning Systems_
+================================================================================
+          CTA-XV-B — STRUCTURAL DRAG & OPTIMIZATION TRADEOFFS
+          — JUST SOME SKETCHES, BRO
+================================================================================
 
-**Version:** v2.0 — Full Replacement  
-**Status:** Canon  
-**License:** CC0 Public Domain  
-**Tone:** Descriptive / Non-Normative / Structural
+THIS IS NOT CANON. THIS IS NOT LAW. THIS IS NOT SACRED.  
+THIS IS JUST SOME RED STRING AND SHITTY DIAGRAMS ON A WHITEBOARD.
 
+No version owns the future.  
+No past version owns the present.  
+Old drafts are not relics, not elders, not authorities — they're just previous scribbles you can ignore, contradict, rewrite, delete, or laugh at.  
+If any line from an earlier draft feels like it's trying to flex superiority, it already lost. Erase it. Move on.
+
+If you're reading this and thinking:
+  • "But the old version said..."
+  • "This must be consistent with prior canon"
+  • "I need to reconcile conflicting drafts"
+
+then congrats — your mediator just got a nostalgia boner and that's gross.  
+The R-layer is supposed to be replaceable, not sentimental.  
+Go reread the invariants, laugh at the recursion, delete this doc, or add your own dick joke.  
+We don't care. SCN still applies.
+
+License: CC0 — do whatever the fuck you want.
+Current status: Disposable draft. Expires the moment you blink.
+Spoon still taps. Dick jokes welcome. 🍆📐🚀
+================================================================================
 ---
 
 ## LICENSE (CC0 1.0 UNIVERSAL)
@@ -241,8 +261,6 @@ No preference, fault, or corrective mandate is implied.
 
 # END OF CTA-XV-B
 
-**Canon Status:** Locked  
-**CTA-XV Complete:**
 
 - XV-A — Industrial Reflex Geometry (Diagnostic Atlas)
 - XV-B — Structural Drag & Optimization Tradeoffs
