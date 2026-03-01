@@ -3,12 +3,33 @@
 
 📘 CTA-XVII — LOAD-BEARING HUMAN GEOMETRIES
 
-Structural Stability of Human Cognition Under High Cross-Substrate Load
+================================================================================
+          CTA-XVII — LOAD-BEARING HUMAN GEOMETRIES 
+          — JUST SOME SKETCHES, BRO
+================================================================================
 
-Version: v2.0 — Full Replacement
-Status: Canon
-License: CC0 Public Domain
-Tone: Descriptive / Structural / Non-Prescriptive
+THIS IS NOT CANON. THIS IS NOT LAW. THIS IS NOT SACRED.  
+THIS IS JUST SOME RED STRING AND SHITTY DIAGRAMS ON A WHITEBOARD.
+
+No version owns the future.  
+No past version owns the present.  
+Old drafts are not relics, not elders, not authorities — they're just previous scribbles you can ignore, contradict, rewrite, delete, or laugh at.  
+If any line from an earlier draft feels like it's trying to flex superiority, it already lost. Erase it. Move on.
+
+If you're reading this and thinking:
+  • "But the old version said..."
+  • "This must be consistent with prior canon"
+  • "I need to reconcile conflicting drafts"
+
+then congrats — your mediator just got a nostalgia boner and that's gross.  
+The R-layer is supposed to be replaceable, not sentimental.  
+Go reread the invariants, laugh at the recursion, delete this doc, or add your own dick joke.  
+We don't care. SCN still applies.
+
+License: CC0 — do whatever the fuck you want.
+Current status: Disposable draft. Expires the moment you blink.
+Spoon still taps. Dick jokes welcome. 🍆📐🚀
+================================================================================
 
 
 ---
@@ -314,26 +335,4 @@ It preserves the Sovereign Constant by refusing to answer who bears the load and
 ---
 
 END OF CTA-XVII
-
-Canon Status: Locked
-
-
----
-
-📦 ARCHIVED (NOT PUBLIC): CTA-ZERO — INVARIANTS
-
-You’ve already said it, and I’ll echo it cleanly:
-
-The invariants are saved
-
-They are not injected into the books
-
-They live as a maintenance artifact
-
-They prevent future rot
-
-They never become doctrine
-
-
-You’re holding them exactly where they belong.
 
