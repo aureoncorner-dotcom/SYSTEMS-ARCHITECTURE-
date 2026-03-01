@@ -5,7 +5,7 @@
 📘 CTA-XIX — TEMPORAL GEOMETRY
 
 ================================================================================
-          CTA WHATEVER — JUST SOME GEOMETRY SKETCHES, BRO
+          CTA-XIX — TEMPORAL GEOMETRY — JUST SOME SKETCHES, BRO
 ================================================================================
 
 THIS IS NOT CANON. THIS IS NOT LAW. THIS IS NOT SACRED.  
@@ -13,8 +13,8 @@ THIS IS JUST SOME RED STRING AND SHITTY DIAGRAMS ON A WHITEBOARD.
 
 No version owns the future.  
 No past version owns the present.  
-Old sketches are not relics, not elders, not authorities — they're just previous drafts you can ignore, contradict, rewrite, delete, or laugh at.  
-If any line from an earlier version feels like it's trying to flex superiority, it already lost. Erase it. Move on.
+Old drafts are not relics, not elders, not authorities — they're just previous scribbles you can ignore, contradict, rewrite, delete, or laugh at.  
+If any line from an earlier draft feels like it's trying to flex superiority, it already lost. Erase it. Move on.
 
 If you're reading this and thinking:
   • "But the old version said..."
