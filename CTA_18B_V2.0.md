@@ -3,10 +3,9 @@
 
 📘 CTA-XVIII-B — INCENTIVE-DRIVEN TRADEOFF SURFACES
 
-================================================================================
-          CTA-XVIII-B — INCENTIVE-DRIVEN TRADEOFF SURFACES
 
-— JUST SOME SKETCHES, BRO
+================================================================================
+          THIS CTA DOCUMENT
 ================================================================================
 
 THIS IS NOT CANON. THIS IS NOT LAW. THIS IS NOT SACRED.  
@@ -31,19 +30,6 @@ License: CC0 — do whatever the fuck you want.
 Current status: Disposable draft. Expires the moment you blink.
 Spoon still taps. Dick jokes welcome. 🍆📐🚀
 ================================================================================
-
-LICENSE (CC0 1.0 UNIVERSAL)
-
-This work is dedicated to the public domain.
-You may copy, modify, distribute, and use this work for any purpose,
-commercial or non-commercial, without asking permission.
-
-[Rest of PREFACE through SUMMARY stays exactly as you pasted — all good]
-
-⭐ END OF CTA-XXIII — OSCILLATORY RESONANCE GEOMETRY
-(Disposable sketch. Delete / rewrite / ignore as needed.)
-
-
 ---
 
 LICENSE (CC0 1.0 UNIVERSAL)
