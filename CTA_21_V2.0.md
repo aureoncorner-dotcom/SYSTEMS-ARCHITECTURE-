@@ -1,16 +1,12 @@
 
 ---
 
-📘 CTA-XXI — RESONANT LINEAGE GEOMETRY
+📘 CTA-XXI — RESONANT LINEAGE GEOMETRY 
 
-
-
----
-
-📘 CTA-XX — DOUBLE HELIX GEOMETRY
 
 ================================================================================
-          CTA-XIX — TEMPORAL GEOMETRY — JUST SOME SKETCHES, BRO
+ CTA-XXI — RESONANT LINEAGE GEOMETRY 
+          — JUST SOME SKETCHES, BRO
 ================================================================================
 
 THIS IS NOT CANON. THIS IS NOT LAW. THIS IS NOT SACRED.  
