@@ -608,3 +608,178 @@ Drift is structural, not moral.
 
 SECTION VII — MINIMUM VIABLE CORNER
 To instantiate the model:
+
+To instantiate the model:
+
+1. 5–12 people
+2. One regenerative material loop
+3. Role rotation schedule
+4. Conflict protocol
+5. Transparent resource tracking
+6. Rest enforcement
+7. Forkability agreement
+
+That is sufficient.
+
+Everything else is modular growth.
+
+---
+
+# SECTION VIII — FINAL STRUCTURAL STATEMENT
+
+The Corner Model does not promise inevitability.
+
+It offers:
+
+- distributed resilience
+- regeneration under constraint
+- authority-resistant coordination
+- exit without coercion
+- scaling without centralization
+
+It succeeds only if:
+
+- regeneration exceeds extraction
+- rotation is enforced
+- transparency remains intact
+- authority does not accumulate
+- participation remains voluntary
+
+Build from the corner.
+
+No crown.  
+No chains.
+
+---
+
+Appendix — Descriptive System Dynamics (Optional)
+
+This section provides simplified models for understanding how participation, regeneration, and friction interact over time.
+
+These models are illustrative only.
+They are not predictive, prescriptive, or exhaustive.
+
+The Corner Model does not depend on them.
+
+
+---
+
+1. Net Time Balance (NTB)
+
+Define:
+
+NTBₜ = Net Time Balance at cycle t
+
+FCₜ = Flow Coherence at cycle t (0–1 scale)
+
+e = Rest enforcement factor (0–1)
+
+
+Simplified update equation:
+
+NTBₜ₊₁ = NTBₜ 
+          + α · FCₜ · (1 − NTBₜ) 
+          − β · (1 − e) · (1 − NTBₜ)
+
+Interpretation:
+
+Higher flow coherence increases renewable participation.
+
+Weak rest enforcement increases burnout leakage.
+
+NTB > 0 indicates sustainable participation.
+
+NTB < 0 indicates depletion.
+
+
+This is a bounded feedback model, not a guarantee of surplus.
+
+
+---
+
+2. Flow Coherence (FC)
+
+Define contributing factors:
+
+r = Recognition latency (lower is better)
+
+v = Validation cost (lower is better)
+
+w = Waste reduction efficiency
+
+c = Complexity growth rate
+
+
+Update equation:
+
+FCₜ₊₁ = FCₜ 
+         + γ · (r · v · w)
+         − δ · c
+
+Interpretation:
+
+Faster recognition, lighter validation, and lower waste increase coherence.
+
+Increasing complexity decreases coherence.
+
+Sustained simplification is required to maintain high FC.
+
+
+
+---
+
+3. Regenerative Capacity (Rcap)
+
+Define:
+
+E_in = External energy input
+
+W_out = Work output
+
+S_gen = Entropy/waste
+
+η = Cascading efficiency
+
+
+Energy balance:
+
+NEB = E_in − (W_out + S_gen)
+
+Regenerative update:
+
+Rcapₜ₊₁ = Rcapₜ + η · (reuse_factor)
+
+Where reuse_factor describes how effectively waste is redirected into productive loops (e.g., heat → greenhouse, greywater → irrigation).
+
+Interpretation:
+
+Positive NEB is required for surplus.
+
+Increasing η improves regenerative growth.
+
+If Rcap declines across cycles, extraction exceeds regeneration.
+
+
+
+---
+
+4. Phase States (Descriptive)
+
+These are descriptive regimes, not inevitabilities:
+
+Extraction: NTB < 0 and Rcap declining
+
+Maintenance: NTB ≈ 0 and Rcap stable
+
+Surplus: NTB > 0 and Rcap increasing
+
+
+Transitions are sensitive to small parameter changes.
+
+No phase is permanent. All require maintenance.
+
+
+---
+ These models are simplifications intended to clarify feedback relationships. Real-world systems are more complex and require observation and adjustment.
+
+
