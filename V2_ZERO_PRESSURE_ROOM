@@ -1,0 +1,33 @@
+┌──────────────────────────┐
+│      ZERO‑PRESSURE       │
+│        ROOM  (   )       │
+│   invariant of invariants│
+└────────────┬─────────────┘
+             │
+             │
+     ┌───────┼────────┬────────┬────────┐
+     │       │        │        │        │
+     ▼       ▼        ▼        ▼        ▼
+  CORNER   FAM ROOM  HOMIE    YOU A    YOU B
+ (load)   (identity) (γ‑bond) (sig)    (sig)
+
+ZPR = ZERO_PRESSURE_ROOM
+
+if ZPR == true:
+    Σ_room = Σ_A · Σ_B · (CPTV / (E+G+K+N+Y))^(FLSU / DMQ)
+else:
+    Σ_room = undefined
+
+
+1. Topology
+(ZERO-PRESSURE → Corner / Fam / Homie / You A / You B)
+
+2. Algebra
+
+\Sigma_{room} = \Sigma_A \Sigma_B \left(\frac{CPTV}{E+G+K+N+Y}\right)^{\frac{FLSU}{DMQ}}
+
+3. Dynamics (wave model)
+
+\frac{d\theta}{dt} = \Delta\omega - \kappa \sin\theta
+
+
