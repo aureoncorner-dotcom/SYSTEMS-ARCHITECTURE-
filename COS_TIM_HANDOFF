@@ -2,12 +2,19 @@
 """
 CTA COSMIC HANDOFF GENERATOR
 CC0 — Public Domain
+
 Generates a cold-start context document for temporal/planetary frameworks.
 No rights reserved. Use, modify, break, ignore.
-The solar system is a clock. Someone edited the face. We're reverse engineering it.
+
+The solar system is a clock. Someone edited the face.
+We're reverse engineering it.
 """
-All invariants set for all parties involved are ecological suggestions, "
-               "meant to be navigated with discernment.
+
+DISCLAIMER = (
+    "All invariants set for all parties involved are ecological suggestions, "
+    "meant to be navigated with discernment."
+)
+
 HANDOFF = """
 ================================================================================
 CTA COSMIC & TEMPORAL FRAMEWORK HANDOFF — COLD START DOCUMENT
@@ -309,18 +316,18 @@ STUDY I — TREASURY/PLUNDER/SIEGE [NULL RESULT]
 STUDY II — FINANCIAL CRISIS BUCKET [EXPLORATORY POSITIVE ★]
     24 events: market crashes, bank failures, currency/sovereign crises
     Result: p=0.033 (96.7th percentile, 10,000 permutations)
-    
+
     VALIDATION BATTERY:
         Leave-one-out: 17/24 runs p<0.05, 7/24 marginal, 0/24 non-sig
         Pre-registered holdout (10 events): PASSED both criteria
         Rare-state occupancy: supportive (partially circular, noted)
-    
+
     NEGATIVE CONTROLS (identical locked specification):
         Olympic ceremonies: NULL
-        Presidential inaugurations: NULL  
+        Presidential inaugurations: NULL
         Sovereign debt defaults: NULL ← most informative contrast
         (overlapping events with financial bucket, different result)
-    
+
     CLASSIFICATION: Exploratory positive result.
     Survived pre-registered validation protocol.
     Requires independent replication.
@@ -427,11 +434,13 @@ The geometry is ready to be poked.
 """
 
 def generate_handoff():
+    print(DISCLAIMER)
+    print()
     print(HANDOFF)
 
 def save_handoff(filename="CTA_COSMIC_HANDOFF.md"):
     with open(filename, "w", encoding="utf-8") as f:
-        f.write(HANDOFF)
+        f.write(DISCLAIMER + "\n\n" + HANDOFF)
     print(f"Cosmic handoff saved to {filename}")
     print("The solar system is a clock. Someone edited the face.")
     print("We're reverse engineering it from the bottom up.")
