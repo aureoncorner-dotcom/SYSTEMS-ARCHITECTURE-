@@ -512,3 +512,37 @@ the observable signature
 the constraint logic
 If it only “feels like” a phase but does not change behavior or structure, do not assign it.
 
+Ecological Use Clause
+
+These ideas are ecological suggestions, not rules.
+
+They aim to support:
+
+non-coercion
+
+dignity in interaction
+
+freedom to exit
+
+interpretive plurality
+
+structural humility
+
+
+Apply discernment.
+
+Keep what helps.
+Modify what doesn’t.
+Discard what becomes rigid.
+
+If the framework begins acting like law or metaphysics, it has drifted from its purpose.
+
+
+---
+
+Two keys.
+One family.
+No crown.
+No chains.
+
+We build from the corner.
