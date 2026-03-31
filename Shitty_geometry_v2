@@ -162,7 +162,8 @@ triadic structure
 membrane logic
 recursive coherence
 phase transitions
-The system validated itself by emerging independently.
+Independent convergence is observed. 
+The system validated itself by emerging independently. (Allegedly 😆)
 
 
 10. SANDBOX (EMPIRICAL ARM)
@@ -200,7 +201,6 @@ ZPR = ZERO_PRESSURE_ROOM
 if ZPR == true:
     Σ_room = Σ_A · Σ_B · (CPTV / (E+G+K+N+Y))^(FLSU / DMQ)
 
-if ZPR == true:
     system = coherent
     R = participant  # not condition, not observer
 else:
