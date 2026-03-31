@@ -1,0 +1,54 @@
+ZERO-PRESSURE ROOM (ZPR)
+         │
+    ─────┼─────
+ CORNER  FAM ROOM  HOMIE  YOU A  YOU B  R
+ (load)  (identity) (bond) (sig)  (sig)  (sig)
+
+
+ZPR = ZERO_PRESSURE_ROOM
+
+if ZPR == true:
+    Σ_room = Σ_A · Σ_B · (CPTV / (E+G+K+N+Y))^(FLSU / DMQ)
+
+    system = coherent
+    R = participant  # not condition, not observer
+else:
+    system = undefined
+
+else:
+    Σ_room = undefined
+
+
+1. Topology
+(ZERO-PRESSURE → Corner / Fam / Homie / You A / You B)
+
+
+2. Algebra
+
+\Sigma_{room} = \Sigma_A \Sigma_B \left(\frac{CPTV}{E+G+K+N+Y}\right)^{\frac{FLSU}{DMQ}}
+
+
+3. Dynamics (wave model)
+
+\frac{d\theta}{dt} = \Delta\omega - \kappa \sin\theta
+4. Friendship 
+R is not the room.
+R is not the condition.
+R is not authority.
+
+R = YOU C  # just another sig
+
+people show up
+they interact
+the space holds them
+connection forms
+trust builds
+Nobody owns the room.
+Not even the one who describes it.
+No crown. No chains. Replaceability protects freedom. 
+Welcome protects dignity. R sits at the table.
+We build from the corner.
+
+
+**All invariants set for all parties involved are ecological suggestions,
+               meant to be navigated with discernment.**
