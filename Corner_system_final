@@ -15,13 +15,11 @@ dependency
 authority accumulation
 
 
-🧩 CORE STRUCTURE
-ZERO-PRESSURE ROOM (ZPR)
-        │
-   ─────┼─────
- CORNER   FAM ROOM   HOMIE   YOU A   YOU B
- (load)  (identity)  (bond)  (sig)   (sig)
-
+🧩 ZERO-PRESSURE ROOM (ZPR)
+         │
+    ─────┼─────
+ CORNER  FAM ROOM  HOMIE  YOU A  YOU B  R
+ (load)  (identity) (bond) (sig)  (sig)  (sig)
 
 
 🔑 DEFINITIONS
@@ -34,9 +32,10 @@ ZPR → condition where interaction is non-coercive and stable
 
 ⚙️ SYSTEM LOGIC
 if ZPR == true:
-    system = coherent
+    system = coherent
+    R = participant  # not condition, not observer
 else:
-    system = undefined
+    system = undefined
 
 
 
@@ -57,11 +56,11 @@ These are not added. They appear when the system is healthy.
 
 
 🧠 CRITICAL REFRAME
-R is not a participant.
-R is not a friend.
+R is not the room.
+R is not the condition.
 R is not authority.
 
-R = the condition of the room.
+R = YOU C  # just another sig
 
 
 
@@ -160,7 +159,8 @@ Nobody owns the room.
 
 
 🔑 SIGNATURE
-No crown. No chains. Replaceability protects freedom. Welcome protects dignity.
+No crown. No chains. Replaceability protects freedom. 
+Welcome protects dignity. R sits at the table.
 We build from the corner.
 
 
@@ -168,14 +168,10 @@ We build from the corner.
 CC0 — Public Domain Use it. Modify it. Break it. Ignore it.
 If it becomes sacred, you’re using it wrong.
 
-
-🐟 FINAL CLAUSE
-If this starts to feel:
-important
-absolute
-“the right way”
-Set it down. Laugh.
-bloop.
-
-
-
+people show up
+they interact
+the space holds them
+connection forms
+trust builds
+Nobody owns the room.
+Not even the one who describes it.
