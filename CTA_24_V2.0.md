@@ -1,5 +1,5 @@
 
-📘CTA-XXIV — CLOSURE GEOMETRY
+📘CTA-XXIV — TOROIDAL RECURSION
 ================================================================================
  CTA-XXIV — CLOSURE GEOMETRY
 — JUST SOME SKETCHES, BRO
