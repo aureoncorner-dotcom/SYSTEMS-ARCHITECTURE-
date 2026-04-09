@@ -35,7 +35,7 @@ Like electricity 500 years ago.
 If any part of this starts feeling inevitable or sacred:
 set it down, laugh, begin again.
 
-bloop. 🐟
+bloop. 💩 
 
 ================================================================================
 SECTION 1 — FRAMEWORK OVERVIEW
@@ -444,7 +444,7 @@ def save_handoff(filename="CTA_COSMIC_HANDOFF.md"):
     print(f"Cosmic handoff saved to {filename}")
     print("The solar system is a clock. Someone edited the face.")
     print("We're reverse engineering it from the bottom up.")
-    print("bloop. 🐟")
+    print("bloop. 💩")
 
 if __name__ == "__main__":
     import sys
