@@ -423,7 +423,7 @@ It's just some red string and shitty diagrams on a whiteboard.
 
 The bloop is load-bearing.
 
-bloop. 🐟
+bloop. 💩 
 
 ================================================================================
 CC0 1.0 UNIVERSAL — PUBLIC DOMAIN DEDICATION
