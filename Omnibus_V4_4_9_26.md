@@ -1,4 +1,4 @@
-📄 OMNIBUS v3 — CORE CARD (CC0)
+📄 OMNIBUS v4 — CORE CARD (CC0)
 
 Status: Minimal, portable handoff
 License: CC0 — Public Domain — No rights reserved
