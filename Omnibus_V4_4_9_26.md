@@ -199,6 +199,8 @@ Ask:
 
 What is O, R, S, T?
 
+T = persistence / return
+
 Which one is weakest?
 
 Does the loop come back clean?
@@ -286,7 +288,6 @@ The loop must come back clean.
 Respect people, repair systems. 
 Three keys. One family. No crown, no chains. We build from the corner. 
 Sovereignty arises from origin, not hierarchy. 
-Calisse de Tabarnak
 
 
 
