@@ -1,4 +1,12 @@
+CTA-XV is a companion atlas.
 
+It describes recurring structural distortions observed in constrained systems.
+
+It does not define interaction.
+It does not alter CTA invariants.
+
+CTA describes the geometry.
+CTA-XV describes distortions of that geometry.
 ---
 
 📘 CTA-XV-A — INDUSTRIAL REFLEX GEOMETRY
