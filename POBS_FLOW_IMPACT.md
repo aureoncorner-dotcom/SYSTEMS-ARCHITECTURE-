@@ -1,5 +1,6 @@
 published cc0 no rights reserved 
-
+Sudden severe headache, one-sided weakness/numbness, vision trouble, speech trouble, confusion, dizziness/loss of balance, or a new unexplained neurological symptom should be treated as urgent medical territory, not interpreted through this framework first. The CDC says to call 911 right away for sudden stroke-like symptoms including severe headache, trouble speaking, vision trouble, confusion, walking/balance problems, or one-sided weakness/numbness. �
+CDC
 
 POBS – Flow Cutoff Incident
 
